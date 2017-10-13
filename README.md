@@ -1,6 +1,6 @@
 # color-hacktober
 
-A colorful webpage for [hactoberfest](https://hacktoberfest.digitalocean.com/)
+A colorful webpage for [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 
 > Please read the contribution guide before going for any further process.
 
